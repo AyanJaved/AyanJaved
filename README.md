@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/AyanJaved"><img src="https://img.shields.io/github/followers/AyanJaved?label=Follow&style=social" /></a>
-  <a href="https://ayanjaved.github.io/weatherApp/"><img src="https://img.shields.io/badge/Live%20App-weatherApp-blueviolet?style=flat-square&logo=github" /></a>
+  <a href="https://rentywenty.onrender.com/"><img src="https://img.shields.io/badge/Live%20App-RentyWenty-blueviolet?style=flat-square&logo=render" /></a>
 </p>
 
 ---
@@ -44,17 +44,17 @@
 
 ### 🌟 Featured Project
 
-#### 🔗 [weatherApp](https://ayanjaved.github.io/weatherApp/)
+#### 🔗 [RentyWenty](https://rentywenty.onrender.com/)
 
-A beautiful React + Vite powered app that lets you search for real-time weather data by city name using Open-Meteo API and Material UI.
+A smart and user-friendly rental platform to discover rooms and hotels across various cities, built using the **MERN stack** with authentication, validation, error handling, review system, and cloud image uploads.
 
-> 💡 Fully responsive and deployed using GitHub Pages.
+> 💡 Built with Node.js, MongoDB, Joi, Passport, and Multer + Cloudinary.
 
 ---
 
 ### 📫 Connect With Me
 
-- 🌍 [LinkedIn](www.linkedin.com/in/ayan-javed)
+- 🌍 [LinkedIn](www.linkedin.com/in/ayan-javed) 
 - ✉️ Email: `9307ayan@gmail.com`
 - 📁 Portfolio site: Coming soon...
 
@@ -66,8 +66,7 @@ A beautiful React + Vite powered app that lets you search for real-time weather 
 - ✅ Build personal projects from scratch
 - 🔜 Contribute to open-source projects
 
+
 ---
 
 _Thanks for stopping by! Feel free to check out my repositories and drop a star ⭐ if you like my work._
-
-
