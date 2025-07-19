@@ -23,20 +23,20 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-`Java` `JavaScript` `C (basics)` `HTML` `CSS`
+`Java` `JavaScript` `C (basics)` `HTML` `CSS` `python`
 
 #### 🧰 Tools & Frameworks
 `Bootstrap` `React.js` `Node.js` `Express.js (EJS)` `MongoDB`
 
 #### ⚙️ Dev Tools
-`VS Code` `Git` `GitHub` `Postman` `Vite` `MUI`
+`VS Code` `Git` `GitHub` `Postman`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyanJaved&show_icons=true&theme=radical" width="47%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanJaved&layout=compact&theme=radical" width="47%" />
 </p>
 
