@@ -36,13 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanJaved&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 #### 🎯 [Resumetric](https://resumetricc.streamlit.app/)
