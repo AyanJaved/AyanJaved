@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayan Javed 👋</h1>
 
 <p align="center">
-  💻 Full-Stack Developer • 🌐 MERN Enthusiast • 🧠 Problem Solver  
+  💻 Full-Stack Developer • 🌐 AI|ML Enthusiast • 🧠 Problem Solver  
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-`Java` `JavaScript` `Python` `C (basics)` `HTML` `CSS`
+`Java` `JavaScript` `Python` `HTML` `CSS`
 
 #### 🧰 Tools & Frameworks
 `React.js` `Node.js` `Express.js (EJS)` `MongoDB` `Bootstrap` `FastAPI` `Streamlit`
