@@ -53,7 +53,7 @@ A smart and user-friendly rental platform to discover rooms and hotels across va
 ### 📫 Connect With Me
 - 🌍 [LinkedIn](https://www.linkedin.com/in/ayan-javed)
 - ✉️ Email: `9307ayan@gmail.com`
-- 📁 Portfolio site: Coming soon...
+- 📁 [Portfolio site](https://ayanjaved.github.io/ayan-portfolio/)
 
 ---
 
