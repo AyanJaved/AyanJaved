@@ -79,27 +79,6 @@ fun_fact: "I founded and scaled an online community to 30,000+ members"
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=googleanalytics&logoColor=white" width="22" height="22"/> GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyanJaved&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanJaved&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanJaved&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanJaved&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyanJaved&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
 ## <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" width="22" height="22"/> Contribution Snake
 
 <div align="center">
