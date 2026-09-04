@@ -105,8 +105,6 @@ fun_fact: "I founded and scaled an online community to 30,000+ members"
   <img src="https://raw.githubusercontent.com/AyanJaved/AyanJaved/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 </div>
 
-> Powered by GitHub Actions. See SETUP_INSTRUCTIONS.md for the one time setup needed to get this rendering on your own profile.
-
 <br/>
 
 ## <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=rocket&logoColor=white" width="22" height="22"/> Featured Projects
