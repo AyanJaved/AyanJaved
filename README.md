@@ -1,4 +1,5 @@
 <div align="center">
+
 <!-- Animated typing header -->
 <a href="https://github.com/AyanJaved">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayan+Javed;Full-Stack+%2B+AI%2FML+Engineer;I+build+things+with+data+and+code;NLP+%7C+Computer+Vision+%7C+MERN" alt="Typing SVG" />
@@ -17,7 +18,7 @@
 
 <p>
   <a href="https://rentywenty.onrender.com/"><img src="https://img.shields.io/badge/Live%20App-RentyWenty-blueviolet?style=flat-square&logo=render" /></a>
-  <a href="https://resumetricc.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Resumetric-4F46E5?style=flat-square&logo=streamlit" /></a>
+  <a href="https://flexify.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Flexify-4F46E5?style=flat-square&logo=streamlit" /></a>
 </p>
 
 </div>
@@ -78,11 +79,34 @@ fun_fact: "I founded and scaled an online community to 30,000+ members"
 
 <br/>
 
+## <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=googleanalytics&logoColor=white" width="22" height="22"/> GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyanJaved&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanJaved&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanJaved&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyanJaved&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyanJaved&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
 ## <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" width="22" height="22"/> Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AyanJaved/AyanJaved/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 </div>
+
+> Powered by GitHub Actions. See SETUP_INSTRUCTIONS.md for the one time setup needed to get this rendering on your own profile.
 
 <br/>
 
@@ -96,6 +120,7 @@ fun_fact: "I founded and scaled an online community to 30,000+ members"
 Real-time computer vision app tracking 33 body landmarks to auto-detect exercises, count reps, and give spoken form correction through a live WebRTC and LLM voice pipeline.
 
 `Python` `MediaPipe` `Streamlit` `Groq API` `WebRTC`
+<br/>[Live app](https://flexify.streamlit.app/)
 
 </td>
 <td width="50%">
